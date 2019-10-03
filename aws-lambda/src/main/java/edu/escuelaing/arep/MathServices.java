@@ -52,7 +52,7 @@ public class MathServices {
                 + "<h2>El resultado es:</h2>"
                 + "<h4style=\"color:red;\">" + "CUADRADO: ";
         BufferedReader leeUrl = new BufferedReader(new InputStreamReader(System.in));
-        URL url = new URL("https://dnjydh351e.execute-api.us-east-1.amazonaws.com/Beta?value=" + req.queryParams("numero"));
+        URL url = new URL("https://487w3xcmwj.execute-api.us-east-1.amazonaws.com/Beta?value=" + req.queryParams("numero"));
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(url.openStream()))) {
             String inputLine = null;
             while ((inputLine = reader.readLine()) != null) {
@@ -88,5 +88,9 @@ public class MathServices {
             return Integer.parseInt(System.getenv("PORT"));
         }
         return 4567;
+    }
+    
+    public static Integer square(Integer i) {
+    	return i*i;
     }
 }
