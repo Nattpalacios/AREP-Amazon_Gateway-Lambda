@@ -42,28 +42,34 @@
 14. En la sección URL Query String Parameters agregamos una variable.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/14.png)
 
-15. Vamos a la pestaña Integration Request
+15. Vamos a la pestaña Integration Request y en la sección URL Query String Parameters mapeamos la variable que agregamos anteriormente.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/15.png)
 
-16.
+16. Bajamos y en la sección Mapping Templates escogemos la segunda opción, agregamos application/json y abajo escribimos $input.params("value") para indicar que entrará un parámetro.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/16.png)
 
-17.
+17. En el botón Actions damos clic en Deploy API y escogemos la opción New stage.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/17.png)
 
-18.
+18. Una vez desplegada, en la parte superior nos aparece la URL con la que podemos acceder.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/18.png)
 
+19.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/19.png)
 
+20.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/20.png)
 
+21.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/21.png)
 
+22.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/22.png)
 
+23.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/23.png)
 
+24.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/24.png)
 
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/25.png)
