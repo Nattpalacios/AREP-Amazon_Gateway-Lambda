@@ -54,22 +54,21 @@
 18. Una vez desplegada, en la parte superior nos aparece la URL con la que podemos acceder.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/18.png)
 
-19.
+19. Vamos a crear una máquina virtual. Agregamos una nueva regla con el puerto 4567.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/19.png)
 
-20.
+20. Esperamos a que la máquina se inicie y nos conectamos.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/20.png)
 
-21.
+21. Nos conectamos por ssh y le cambiamos la versión de java a 1.8, subimos el .jar a la máquina.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/21.png)
 
-22.
+22. Lo ponemos a funcionar y abrimos el link.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/22.png)
 
-23.
+23. Hacemos las pruebas del programa.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/23.png)
 
-24.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/24.png)
 
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/25.png)
