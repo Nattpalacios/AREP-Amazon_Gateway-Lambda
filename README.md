@@ -30,22 +30,28 @@
 10. Probamos que nuestro test haya quedado bien.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/10.png)
 
-11. En Services buscamos API Gateway.
+11. En Services buscamos API Gateway y damos clic en Get Started.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/11.png)
 
-12. 
+12. Le damos nombre a nuestra API y la creamos.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/12.png)
 
+13. Creamos un método GET.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/13.png)
 
+14. En la sección URL Query String Parameters agregamos una variable.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/14.png)
 
+15. Vamos a la pestaña Integration Request
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/15.png)
 
+16.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/16.png)
 
+17.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/17.png)
 
+18.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/18.png)
 
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Amazon_Gateway-Lambda/master/imagenes/19.png)
